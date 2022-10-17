@@ -339,7 +339,7 @@ public class Main
 				System.out.println("|*****************************************************************************************************************************************************|");
 				System.out.println("");
 				System.out.println("");
-				System.out.print("\t\t ENTER ANY KEY TO GO MAIN MENU : ");
+				System.out.print("\t\t ENTER ANY KEY TO GO LOGIN/SIGNUP MENU : ");
 				String opt = sc.nextLine();
 				System.out.println("");
 	
