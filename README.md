@@ -14,6 +14,6 @@ The Online Career Guidance System begins with choosing a career. Students or fre
 --> Junit-4
 
 # * IDE Used : 
---> Spring Tool Suite 4
+--> Spring Tool Suite 4 / Eclipse
 
 --> Mysql
