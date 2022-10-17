@@ -1,3 +1,3 @@
-#|-----------------------------------| SPRINT-PROJECT-01 |-----------------------------------|
+# |-----------------------------------| SPRINT-PROJECT-01 |-----------------------------------|
 
-#                         PROJECT-TOPIC : CARRIER-GUIDE SYSTEM
+#                            PROJECT-TOPIC : CARRIER-GUIDE SYSTEM
