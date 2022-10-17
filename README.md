@@ -20,7 +20,7 @@ The Online Career Guidance System begins with choosing a career. Students or fre
 
 # Process :
 
-Step-01 : Run the Program .
+Step-01 : Run the Application , You will get the interface like this .
 
 ![01- First interface](https://user-images.githubusercontent.com/108928939/196245857-5af0821b-7d37-444d-a81d-9272936eaddd.png)
 
