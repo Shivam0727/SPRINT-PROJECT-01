@@ -8,9 +8,12 @@ The Online Career Guidance System begins with choosing a career. Students or fre
 
 # * Technology Used : 
 --> Core Java
+
 --> Hibernate
+
 --> Junit-4
 
 # * IDE Used : 
 --> Spring Tool Suite 4
+
 --> Mysql
