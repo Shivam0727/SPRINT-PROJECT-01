@@ -17,3 +17,21 @@ The Online Career Guidance System begins with choosing a career. Students or fre
 --> Spring Tool Suite 4 / Eclipse
 
 --> Mysql
+
+# Process :
+
+Step-01 : Run the Program .
+
+![01- First interface](https://user-images.githubusercontent.com/108928939/196245857-5af0821b-7d37-444d-a81d-9272936eaddd.png)
+
+
+
+
+
+
+
+
+
+
+
+
