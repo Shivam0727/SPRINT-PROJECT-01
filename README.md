@@ -252,25 +252,79 @@ Step-12 : Now if you want to exit this system then press opt-4 in login/signup p
         3- InvalidInputTakenException
         4- UserNotFound Exception
 
+# Exception Occur :
 
+1- Enter invalid input in signup / login interface .
 
+![Exception - 01 - enter invalid input in signup or login interface](https://user-images.githubusercontent.com/108928939/196384710-2b3b5925-8539-4f22-8a81-1b2b6a27bed4.png)
 
+2- Enter invalid input in signup-process as when you enter name then it never be a single charactor . 
 
+![Exception - 02 - enter invalid input in signup process as name is never single character](https://user-images.githubusercontent.com/108928939/196385024-06ffa3fb-e493-4fbf-85f3-19e7474613bd.png)
 
+3- Enter invalid input in signup-process as when you enter Surname then it never be a single charactor .  
 
+![Exception - 03 - enter invalid input in signup process as surname is never single character](https://user-images.githubusercontent.com/108928939/196385195-41d1d653-965b-4697-9f07-90220c203577.png)
 
+4- Enter invalid input in signup-process as password which you enter must follow following condtion which they mention above password field .
 
+![Exception - 04 - enter invalid input in signup process as password condition is not satisfied](https://user-images.githubusercontent.com/108928939/196385598-700b6b4b-30e1-478c-b8fc-dd7aca448b74.png)
 
+5- Enter invalid input in signup-process as Date of birth which you entered must be in format shown there i.e; dd-mm-yyyy .
 
+![Exception - 05 - enter invalid input in signup process as dob format is not satisfied](https://user-images.githubusercontent.com/108928939/196385886-d68074a4-db80-41a2-bbdf-89b3b3895c40.png)
 
+6- Enter invalid input in signup-process as email must contain '@' symbol .
 
+![Exception - 06 - enter invalid input in signup process as email condition is not satisfied](https://user-images.githubusercontent.com/108928939/196386357-9369a65b-a152-4aa4-96f2-6b84ffe2ee19.png)
 
+7- Enter invalid input in signup-process as Contact number whicb you entered must contain 10 digits .
 
+![Exception - 07 - enter invalid input in signup process as contact must be a 10 digit number](https://user-images.githubusercontent.com/108928939/196386565-ed13d62d-105a-4375-a8d7-787421e53028.png)
 
+8- Enter invalid input in login-process as username or password which you entered is invalid .
 
+![Exception - 08 - enter invalid input in login process as username or password is incorrect ](https://user-images.githubusercontent.com/108928939/196386804-7867e99f-914d-4010-926f-8543b90ecb40.png)
 
+9- Enter invalid input in Main-menu as the input you entered is not available .
 
+![Exception - 09 - enter invalid input in Main menu as the input you entered is not present](https://user-images.githubusercontent.com/108928939/196387064-f00117b5-951f-4c79-97db-e269b11afda4.png)
 
+10- Enter invalid input in carrier opportunity as the input you entered is not available .
+
+![Exception - 10- enter invalid input in carrier opportunity as the input you entered is not present](https://user-images.githubusercontent.com/108928939/196387541-300cc80e-dcfe-4b86-8491-7fa407721733.png)
+
+11- Enter invalid input in  profile as the input you entered is not available .
+
+![Exception - 11- enter invalid input in profile as the input you entered is not present](https://user-images.githubusercontent.com/108928939/196387777-a6736e16-4145-489d-89f3-665f892696e3.png)
+
+12- Enter invalid input in view profile as the contact you entered is not available .
+
+![Exception - 12- enter invalid input in view profile as the contact number you entered is not present](https://user-images.githubusercontent.com/108928939/196388091-58f75240-0298-4393-89f8-ecac773de467.png)
+
+13- Enter invalid input in update profile as the contact you entered is not available .
+
+![Exception - 13- enter invalid input in update profile as the contact number you entered is not present](https://user-images.githubusercontent.com/108928939/196388344-9d32fa1b-f64a-46b8-b9f9-ef8cdd7d4416.png)
+
+14- Enter invalid input in update profile as the input you entered is not available .
+
+![Exception - 14- enter invalid input in update profile as the input you entered is not present](https://user-images.githubusercontent.com/108928939/196388850-d2573221-4ebc-4eb1-9514-6bce2e61bcd4.png)
+
+15- Enter invalid contact number in Contact us as the contact number you entered is not available .
+
+![Exception - 15- enter invalid contact number in contact us as you need to enter the contact no which you registered ](https://user-images.githubusercontent.com/108928939/196389668-291ac478-478e-4f26-a38a-fb90413effd9.png)
+
+16- Enter invalid contact number in view query as the contact number you entered is not available .
+
+![Exception - 16- enter invalid input in view query as the contact number you entered is not present](https://user-images.githubusercontent.com/108928939/196389949-3e0091b8-b2e0-4c1a-90fd-badcafdf04a4.png)
+
+17- Enter invalid input in forgot username as the contact number you entered is not available .
+
+![Exception - 17- enter invalid input in forgot username as the contact number you entered is not present](https://user-images.githubusercontent.com/108928939/196390281-4bd33b75-576d-4d31-88fe-55816567cd40.png)
+
+18- Enter invalid input in forgot password as the contact number you entered is not available .
+
+![Exception - 18- enter invalid input in forgot password as the contact number you entered is not present](https://user-images.githubusercontent.com/108928939/196390368-0ef4fc9d-b42b-4fcc-b5ca-fef57ee526be.png)
 
 
 
