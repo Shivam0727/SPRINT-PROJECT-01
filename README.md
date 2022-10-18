@@ -326,26 +326,50 @@ Step-12 : Now if you want to exit this system then press opt-4 in login/signup p
 
 ![Exception - 18- enter invalid input in forgot password as the contact number you entered is not present](https://user-images.githubusercontent.com/108928939/196390368-0ef4fc9d-b42b-4fcc-b5ca-fef57ee526be.png)
 
+# J-Unit Testing :
 
+We need to test our project to check where all the functionality of project is work properly or not . So for Testing our project we can use J-Unit 4  .
 
+Simply for validation of our Contact number , Date of birth and Password we use J-Unit testing .
 
+--> Contact Validation : 
+            
+    We need to check whether the contact we enter is validate by regex or not .
+    we can use simple class where all the regex functionality is present .
+    
+    ![Test 01- Contact](https://user-images.githubusercontent.com/108928939/196399601-21bc3fd3-f1f4-4155-8cd8-c1057c3d9c5d.png)
 
+    Now we perform J-Unit Testing on Contact by checking for different inputs .
+    
+    ![Testing 01- Contact test successfull](https://user-images.githubusercontent.com/108928939/196400161-e38d5a7e-387e-4109-a064-9e9bebb633a5.png)
 
+    ![Testing 02- Contact test unsuccessfull](https://user-images.githubusercontent.com/108928939/196400198-d31b6fb4-c833-4f20-b076-7e1423144417.png)
 
+--> Date Of Birth Validation : 
+            
+    We need to check whether the Date of birth we enter is validate by regex or not .
+    we can use simple class where all the regex functionality is present .
 
+    ![Test 01- DOB](https://user-images.githubusercontent.com/108928939/196400401-f2864653-0572-464c-89be-d5e03b23085a.png)
 
+      Now we perform J-Unit Testing on Date of Birth by checking for different inputs .
 
+    ![Testing 03- DOB test successfull](https://user-images.githubusercontent.com/108928939/196400540-468e77ac-4adc-4a49-b85b-6e92eed4678f.png)
 
+    ![Testing 04- DOB test unsuccessfull](https://user-images.githubusercontent.com/108928939/196400583-248016b9-8a85-4bae-9a8f-bba3845ecf1b.png)
 
+--> Password Validation : 
 
+     We need to check whether the Password we enter is validate by regex or not .
+    we can use simple class where all the regex functionality is present .
 
+    ![Test 01- Password](https://user-images.githubusercontent.com/108928939/196400755-b51118c3-d40d-4a56-8030-350c55f370db.png)
 
+    Now we perform J-Unit Testing on Password by checking for different inputs .
 
+    ![Testing 05- Password test successfull](https://user-images.githubusercontent.com/108928939/196400837-db2a9626-237c-4c9b-a7c6-76db9846854e.png)    
 
-
-
-
-
+    ![Testing 06- Password test unsuccessfull](https://user-images.githubusercontent.com/108928939/196400881-f115f031-ba60-47c4-806f-0c2c2faf8326.png)  
 
 
 
