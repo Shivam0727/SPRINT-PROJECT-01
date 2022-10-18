@@ -65,7 +65,144 @@ Step-04 : Now after login successfully , you can see the following options :
   
   ![09- Carrier Opportunity](https://user-images.githubusercontent.com/108928939/196342031-1bb47092-bfbf-44d6-bee5-bb7253668a45.png)
 
-  Here you found 7 options i.e; Full stack Java Development , Full Stack Web Development , Frontend Development , Backend Development , Mean stack , Mern Stack and last is Back to Main Menu .
+  Here you found 7 options i.e; Full stack Java Development , Full Stack Web Development , Frontend Development , Backend Development , Mean stack , Mern Stack and last is go to Main Menu . 
+  
+  Step-06 : If you click 1 i.e; Full stack Java Developement then you can see the interface like this .
+  
+  ![10- Full Stack Java Development ](https://user-images.githubusercontent.com/108928939/196342682-64db345c-e2ce-4f18-a0c5-768df2ce5bb9.png)
+
+Here 5 options are available i.e; About , Journey towards full stack java developer , Carrier opportunity , Self learning sites and back to carrier opportunity .
+
+In About section you can see that course Objective , details and what you learn in that course . Now in Journey towards full stack java developer section You will find exact carrier path i.e; what you need to learn , which topic you need to focus and what time you need to be invested in perticular topics . And then in Carrier Opportunity section you will find what opportunities you will get after completing this course i.e; which role you will get in a perticular company , what salary you expect from them with experience . And then At last Self learning sites section will discribe references for all the topic which you need to cover in a perticular course .
+
+At the end one more option is present i.e; 9 to go back to carrier opportunity .
+
+![11- Back To Carrier Opportunity](https://user-images.githubusercontent.com/108928939/196344796-92bb9357-49aa-4bdd-b494-2760664f6514.png)
+
+Similarly if you click 2 then you will found Full stack web development related things .
+
+![12- Full Stack Web Development](https://user-images.githubusercontent.com/108928939/196345002-2a79f04b-840b-4c74-8351-0ef8fc0c478c.png)
+
+Here also all the options will describe same as describe in full stack java development but the content present in that will be different from full stack java development .
+
+At the end one more option is present i.e; 9 to go back to carrier opportunity .
+
+![13- Back To Carrier Opportunity](https://user-images.githubusercontent.com/108928939/196345559-e5818b75-6bb0-413f-b308-ec6f9cdb99cc.png)
+
+if you click 3 then you found Front-End Development related things .
+
+![14- Front End Development](https://user-images.githubusercontent.com/108928939/196345718-8262bc99-12fd-49fb-8b40-3ae898f06dbb.png)
+
+Here also all the options will describe same as describe in full stack java development but the content present in that will be different from full stack java development .
+
+At the end one more option is present i.e; 9 to go back to carrier opportunity .
+
+![15- Back To Carrier Opportunity](https://user-images.githubusercontent.com/108928939/196345835-a87bcd43-ffae-4212-954b-853f4389d79b.png)
+
+if you click 4 then you found Back-End Development related things .
+
+![16- Backend Development](https://user-images.githubusercontent.com/108928939/196345911-c0145d93-af44-411a-9ba3-086cdb59591f.png)
+
+Here also all the options will describe same as describe in full stack java development but the content present in that will be different from full stack java development .
+
+At the end one more option is present i.e; 9 to go back to carrier opportunity .
+
+![17- Back To Carrier Opportunity](https://user-images.githubusercontent.com/108928939/196345947-9b304fc8-ef72-4f5f-8487-4ee1bc15ade8.png)
+
+if you click 5 then you found MEAN Development related things .
+
+![18- Mean Stack](https://user-images.githubusercontent.com/108928939/196346014-178df919-8f41-404b-a4e6-a55362e8665a.png)
+
+Here also all the options will describe same as describe in full stack java development but the content present in that will be different from full stack java development .
+
+At the end one more option is present i.e; 9 to go back to carrier opportunity .
+
+![19- Back To Carrier Opportunity](https://user-images.githubusercontent.com/108928939/196346054-0733589a-805d-40f2-a9f6-69f66288fa46.png)
+
+if you click 6 then you found MERN Development related things .
+
+![20- Mern Stack](https://user-images.githubusercontent.com/108928939/196346097-b6d90f72-259b-4fb5-8029-98c94b6b76dc.png)
+
+Here also all the options will describe same as describe in full stack java development but the content present in that will be different from full stack java development .
+
+At the end one more option is present i.e; 9 to go back to carrier opportunity .
+
+![21- Back To Carrier Opportunity](https://user-images.githubusercontent.com/108928939/196346135-8916f79e-28d5-4ce0-9bc5-187dc3e49cfe.png)
+
+At the end if you want to go back to main menu from carrier Opportunity then you can press 99 .
+
+![22- Back to Main Menu from carrier Opportunity](https://user-images.githubusercontent.com/108928939/196346430-0f10c696-1f24-45f8-a678-7f5b9ccf3062.png)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
