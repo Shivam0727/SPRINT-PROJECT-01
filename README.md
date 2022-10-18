@@ -190,8 +190,19 @@ Now you can see in database also when in email field you can observe that it is 
 
 ![29- View Updated Email On Database](https://user-images.githubusercontent.com/108928939/196358100-9ed0ad06-a360-428a-bbc9-0c6704038a86.png)
 
+Step-8 : Now if you have some query or doubt or you need some help during accessing this system then you can contact the developer and send your query . So for that in main menu you can press opt-3 i.e; Contact Us . 
 
+![30- Contact Us](https://user-images.githubusercontent.com/108928939/196359024-4a28bab5-8e30-4856-948f-613cb54cfe6b.png)
 
+You need to provide details which they ask during Contact Us section but one important thing which you need to remember that during filling the details you must need to enter the contact number which you provide during signup process otherwise your query will not send to developer .
+
+So assume that you enter all the fields correctly .
+
+![31- Query send to developer](https://user-images.githubusercontent.com/108928939/196359549-a45288a4-a77e-476a-a1e5-9262705269d0.png)
+
+Now as a developer you can see the users query is updated in database .
+
+![32- View user query by developer from database ](https://user-images.githubusercontent.com/108928939/196360186-7bbcc502-8a7c-4819-a2b5-329d54413f42.png)
 
 
 
