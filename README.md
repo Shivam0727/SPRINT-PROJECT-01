@@ -133,17 +133,62 @@ At the end if you want to go back to main menu from carrier Opportunity then you
 
 ![22- Back to Main Menu from carrier Opportunity](https://user-images.githubusercontent.com/108928939/196346430-0f10c696-1f24-45f8-a678-7f5b9ccf3062.png)
 
+Step-07 : Now in main menu you will find rest of the options like opt-2 for profile , opt-3 for contact-us , opt-4 for you query and opt-5 for logout
 
+So Now let say as a user we press 2 for profile section . 
 
+![23- Profile](https://user-images.githubusercontent.com/108928939/196351099-786e6c03-32ed-4138-ab3c-67445018177b.png)
 
+Now you can see 2 options i.e; your profile and update profile .
 
+So now we press opt-1 i.e; Your profile .
 
+![24- View Profile](https://user-images.githubusercontent.com/108928939/196354489-94cc5d01-4886-4ba6-be7d-76001fafcc9b.png)
 
+Here you need to enter your contact number which you enter during signup process . 
+After Entering your contact number you can see your profile as shown below .
 
+![25- Your Profile](https://user-images.githubusercontent.com/108928939/196354676-eb2796e5-e985-4b7b-bb00-0c36a87a204b.png)
 
+Now we back to our main menu and then again by pressing opt-2 i.e; Profile we get again two options . So now we press opt-2 i.e; Update profile .
 
+![26- Update Profile](https://user-images.githubusercontent.com/108928939/196354942-2f5f078e-cb3f-4912-a637-d2f7c04e73b8.png)
 
+again you need to enter your contact number which you enter during signup process . 
+After Entering your contact number you can see the following options :
 
+1- First Name    			 
+
+2- Last Name    			 
+
+3- Date Of Birth
+
+4- Email-ID      			
+
+5- Contact      			 
+
+6- Degree
+
+7- Branch        			
+
+8- College Name 			
+
+9-Passout Year
+
+10- GO TO MAIN MENU
+
+![27- Options in Update Profile](https://user-images.githubusercontent.com/108928939/196357254-50204fc1-64a5-424e-b059-bd3545e15b66.png)
+
+Let say we need to update Email for an example so press opt-4 .
+
+Then you need to enter contact number which you enter during signup process . if you enter the correct Contact number then you need to enter the updated email-id .
+after completing this you can see the message as email is updated .
+
+![28- Update Email](https://user-images.githubusercontent.com/108928939/196357458-e04dbd09-db32-4753-85ae-05ed3e318d20.png)
+
+Now you can see in database also when in email field you can observe that it is updated .
+
+![29- View Updated Email On Database](https://user-images.githubusercontent.com/108928939/196358100-9ed0ad06-a360-428a-bbc9-0c6704038a86.png)
 
 
 
