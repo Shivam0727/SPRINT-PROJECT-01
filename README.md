@@ -50,8 +50,22 @@ Step-03 : Now as a user after completed signup process , he/she need to do login
 
 ![07- Login Sucessfully](https://user-images.githubusercontent.com/108928939/196336159-1c65d465-4d3b-47bc-aab2-718488975622.png)
 
+Step-04 : Now after login successfully , you can see the following options :
+  --> Carrier Opportunity
+  --> Profile
+  --> Contact Us
+  --> Your Query
+  --> Logout
+  
+  ![08- Main Menu](https://user-images.githubusercontent.com/108928939/196341432-2feb8291-c365-4ade-b2ae-c0fac29247ab.png)
 
+  You can choose any one of them .
+  
+  Step-05 : If you choose option-1 i.e; Carrier Opportunity , then the interface is look like this .
+  
+  ![09- Carrier Opportunity](https://user-images.githubusercontent.com/108928939/196342031-1bb47092-bfbf-44d6-bee5-bb7253668a45.png)
 
+  Here you found 7 options i.e; Full stack Java Development , Full Stack Web Development , Frontend Development , Backend Development , Mean stack , Mern Stack and last is Back to Main Menu .
 
 
 
