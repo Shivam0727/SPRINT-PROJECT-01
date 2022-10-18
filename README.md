@@ -33,7 +33,8 @@ Step-02 : First of all When an user run this application , then he/she need to c
 ![03- Signup Process](https://user-images.githubusercontent.com/108928939/196334706-8c75eb2f-959f-45c7-b0d3-3b677f70872c.png)
 
   In signup process as a developer we add some regex concepts to validate some fields like Name and surname never be a single character , date of birth is in the form of dd-mm-yyyy , email-id must contain '@' symbol , phone number must be of 10 digits , password should contain the following requirements shown on applications .
-  So after filling all the requirement details the signup process is successfully completed .
+
+So after filling all the requirement details the signup process is successfully completed .
   
 ![04- Signup Sucessfully](https://user-images.githubusercontent.com/108928939/196335402-35b11bf2-5dcb-4c19-8928-ca035fec8dce.png)
 
