@@ -204,23 +204,44 @@ Now as a developer you can see the users query is updated in database .
 
 ![32- View user query by developer from database ](https://user-images.githubusercontent.com/108928939/196360186-7bbcc502-8a7c-4819-a2b5-329d54413f42.png)
 
+Step-9 : Now as a user if we want to view our all query which we send during contact us then in main menu there is one option i.e; opt-4 (view your query) . So by pressing opt-4 we need to enter the contact number which you enter during signup process .
 
 
+![33- View Your Query ](https://user-images.githubusercontent.com/108928939/196372792-ec2f66ac-11a0-45e3-b3cd-8b12b981184c.png)
 
+After entering correct contact number you will get all the query which you send during contact us section . 
 
+![34- Your Query](https://user-images.githubusercontent.com/108928939/196373819-d7d5ab59-1364-48ad-8400-13fdcbfec7cf.png)
 
+Step-10 : At last if you want to logout then press 999 in main menu .
 
+![35- Logout System](https://user-images.githubusercontent.com/108928939/196374363-407edca1-a8b1-48a6-b292-f6adf20a27e2.png)
 
+Step-11 : Now you are in login / signup page where 4 options are present out of which 2 options we explore 
 
+Now in case if you forgot username or password then there is one option present i.e; opt-3 in signup/login page  which help you to reset your username or password . so when you click opt-3 you will get interface like this .
 
+![37- Forgot username and password](https://user-images.githubusercontent.com/108928939/196377883-819def7a-4647-4662-a46c-ed19a9560fe0.png)
 
+If you want to set username then click opt-1 where you need to enter contact number which you enter during signup process .
 
+![38- Set username](https://user-images.githubusercontent.com/108928939/196378153-4b801561-c5f9-4408-a8eb-0e0bcfa20cef.png)
 
+After entering contact number successfully then you need to provide new username . 
 
+![39- update username](https://user-images.githubusercontent.com/108928939/196378394-6aa24b70-a796-41c0-a9ba-4cb7a54af5da.png)
 
+Now if you want to set password then click opt-2 where you need to enter contact number which you enter during signup process .
 
+![40- set password](https://user-images.githubusercontent.com/108928939/196379365-f786805d-9b77-4a34-bc68-4cbc398136f2.png)
 
+After entering contact number successfully then you need to provide new password .
 
+![41- update password](https://user-images.githubusercontent.com/108928939/196379633-2c6d0292-972a-4125-b991-672808829210.png)
+
+Step-12 : Now if you want to exit this system then press opt-4 in login/signup page then you successfully exit the App .
+
+![42- Exit App](https://user-images.githubusercontent.com/108928939/196379994-6b334f0c-816a-4c72-b9d7-326716526c6c.png)
 
 
 
