@@ -1,4 +1,4 @@
-# |---------------------| SPRINT-PROJECT-01 |---------------------|
+# |-------------------| SPRINT-PROJECT-01 |-------------------|
 
 # --> PROJECT-TOPIC : CARRIER-GUIDANCE SYSTEM
 
