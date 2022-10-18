@@ -28,8 +28,14 @@ Step-01 : Run the Application , You will get the interface like this .
   
 ![02-View Database and tables created after run program](https://user-images.githubusercontent.com/108928939/196247282-9e052e76-7e63-4768-9139-61a6cd11a464.png)
 
+Step-02 : First of all When an user run this application , then he/she need to complete their signup process otherwise he/she not eligible to move forward in this application .
 
+![03- Signup Process](https://user-images.githubusercontent.com/108928939/196334706-8c75eb2f-959f-45c7-b0d3-3b677f70872c.png)
 
+  In signup process as a developer we add some regex concepts to validate some fields like Name and surname never be a single character , date of birth is in the form of dd-mm-yyyy , email-id must contain '@' symbol , phone number must be of 10 digits , password should contain the following requirements shown on applications .
+  So after filling all the requirement details the signup process is successfully completed .
+  
+![04- Signup Sucessfully](https://user-images.githubusercontent.com/108928939/196335402-35b11bf2-5dcb-4c19-8928-ca035fec8dce.png)
 
 
 
