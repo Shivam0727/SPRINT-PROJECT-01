@@ -245,8 +245,12 @@ Step-12 : Now if you want to exit this system then press opt-4 in login/signup p
 
 
 
+# Custom Exceptions : 
 
-
+        1- ContactNotFoundException
+        2- CourseNotFoundException
+        3- InvalidInputTakenException
+        4- UserNotFound Exception
 
 
 
