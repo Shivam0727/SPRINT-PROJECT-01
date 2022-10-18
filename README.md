@@ -7,16 +7,16 @@ Passing out of Graduation is a big time for most of the fresher graduates becaus
 The Online Career Guidance System begins with choosing a career. Students or freshers will be able to see various career choices . They will be able to view Carrier Opportunities , About any courses , Structured carrier path in a perticular course , some references for perticular topic in courses .  All this information will help future college students to make a well – informed choice.
 
 # Technology Used : 
---> Core Java
+    --> Core Java
 
---> Hibernate
+    --> Hibernate
 
---> Junit-4
+    --> Junit-4
 
 # IDE Used : 
---> Spring Tool Suite 4 / Eclipse
+    --> Spring Tool Suite 4 / Eclipse
 
---> Mysql
+    --> Mysql
 
 # Process :
 
