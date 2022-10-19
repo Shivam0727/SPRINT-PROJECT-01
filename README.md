@@ -396,11 +396,11 @@ Simply for validation of our Contact number , Date of birth and Password we use 
 
    ![Testing 06- Password test unsuccessfull](https://user-images.githubusercontent.com/108928939/196400881-f115f031-ba60-47c4-806f-0c2c2faf8326.png)  
 
-#Advantage : 
+# Advantage : 
 
-   - This project will help the freshers or college students who are confused while choosing carrier .
-   - This project is simple and easy to use .
-   - Anyone can access this easily and choose thier carrier in right direction .
+      - This project will help the freshers or college students who are confused while choosing carrier .
+      - This project is simple and easy to use .
+      - Anyone can access this easily and choose thier carrier in right direction .
   
  # Future Scope :
  
