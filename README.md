@@ -396,7 +396,20 @@ Simply for validation of our Contact number , Date of birth and Password we use 
 
    ![Testing 06- Password test unsuccessfull](https://user-images.githubusercontent.com/108928939/196400881-f115f031-ba60-47c4-806f-0c2c2faf8326.png)  
 
+#Advantage : 
 
+   - This project will help the freshers or college students who are confused while choosing carrier .
+   - This project is simple and easy to use .
+   - Anyone can access this easily and choose thier carrier in right direction .
+  
+ # Future Scope :
+ 
+ We can modify this project as per our requirement like you can add some logics to creaate interview preparation section containing different - different catogory as per requirements . You can also use some advance concepts of Java to build this project to server-client project . You can use concepts like servlets , Jsp , jframe , Jwt , Spring mvc and Spring-boot to modify this project from console application to a real life web application . If you know UI framework then you can create a beautiful web page for login / signup page , main menu page etc . In this way you can modify this console application into beautiful web application .
+ 
+                                                
+                                                 
+  
+            
 
 
 
