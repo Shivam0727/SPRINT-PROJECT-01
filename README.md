@@ -1,6 +1,6 @@
 # |------------------| SPRINT-PROJECT-01 |-------------------|
 
-# --> PROJECT-TOPIC : CARRIER-GUIDANCE SYSTEM
+# --> PROJECT-TOPIC : CAREER-GUIDANCE SYSTEM
 
    Passing out of Graduation is a big time for most of the fresher graduates because for most it is the first time they will have to make a life-changing choice to build their carriers . This Online Career Guidance System aims to be a helpful and useful starting point for this confusing phase . There is a wealth of tools and data available for Fresher graduates who are interested in any field but most students do not have the time to research as well as required. This system will bring all these tools and data in one place for students as well as fresher graduates .
 
